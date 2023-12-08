@@ -1,0 +1,31 @@
+/* GOVNO STILE MY PUPA */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+    padding: 20px;
+    background: #191970;
+}
+#game {
+    padding: 10px;
+    background: #e706c9;
+    color: #FFFF00;
+    display: inline-block;
+    border-radius: 50px;
+}
+#game #title {
+    padding-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: #5889a8;
+    text-shadow: 0 0 10px rgb(109, 3, 216);
+}
+#cnv {
+    border-radius: 15px;
+    background: #1a272f;
+    box-shadow: 0 0 5px #00A7FF;
+}
